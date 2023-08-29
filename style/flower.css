@@ -103,3 +103,24 @@ body {
     height: 400px;
     padding: 40px 40px 0px 40px;
 }
+/* optional section style */
+.optional-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+width: 1200px;
+height: 300px;
+margin-left: 80px;
+}
+.optional-item{
+    
+    text-align: center;
+}
+.optional-info{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 15px;
+font-weight: 300;
+}
