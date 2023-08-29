@@ -166,3 +166,28 @@ font-weight: 300;
     width: 250px;
     height: 300px;
 }
+/* latest section style */
+.latest-container{
+    padding: 130px 90px 130px 150px;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    height: 180px;
+    margin: 80px 50px 80px 120px;
+    width: 900px;
+    border-radius: 8px;
+}
+.latest-item{
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+.email-field{
+    border-radius: 8px;
+background: #FFF;
+width: 700px;
+height: 30px;
+border: none;
+padding: 15px 20px 15px 15px;
+
+}
